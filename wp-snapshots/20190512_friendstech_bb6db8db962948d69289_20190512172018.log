@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 12, 2019 5:20 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	5.2
+PHP INFO:	7.2.8 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 38.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20190512_friendstech_bb6db8db962948d69289_20190512172018_database.sql 
+SQL FILE SIZE: 1.61MB (1690598) 
+SQL FILE TIME: 2019-05-12 17:20:22 
+SQL RUNTIME: 0.17 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/friendstech 
+ARCHIVE FILE: 20190512_friendstech_bb6db8db962948d69289_20190512172018_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	122.8MB 
+STATS:	Dirs 403 | Files 3,623 
+SQL ADDED: 20190512_friendstech_bb6db8db962948d69289_20190512172018_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4026
+    [filename] => /Applications/MAMP/htdocs/friendstech/wp-snapshots/tmp/20190512_friendstech_bb6db8db962948d69289_20190512172018_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 45.16MB 
+ARCHIVE RUNTIME: 13.37 sec. 
+MEMORY STACK: 40.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/friendstech/wp-snapshots/tmp/20190512_friendstech_bb6db8db962948d69289_20190512172018_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.61MB 
+Installer File: 514.18KB 
+Archive File: 45.16MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 14.63 sec.
+PEAK PHP MEMORY USED: 40.25MB
+DONE PROCESSING => 20190512_friendstech May 12, 2019 5:20 pm
+ 
